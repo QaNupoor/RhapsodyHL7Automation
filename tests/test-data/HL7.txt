@@ -1,0 +1,11 @@
+MSH|^~\\&|AHT^Matrix|30955^MatrixCare Manor - MC|||20250912062140||ADT^A08|460|P|2.5||||||ASCII\r
+EVN||0000||03||20250912042138\r
+PID||19048|4074^^^^MR~19048^^^^FI~88889536000^^^^PN||scoll Gold^Esther's willy||19780923|F|||^^Garland^TX^75044^USA^C|||||||4074||||||||||||N\r
+NK1|1|scoll Gold^Esther's willy|^Resident|^^^OH^^USA^M|^^PH^raghuraman.purusothaman@matrixcare.com^^978^7897899~^^CP^raghuraman.purusothaman@matrixcare.com^^978^7897899||||||||||||||||||||||||||||23329\r
+NK1|2|O'keefe^Steven|^Friend|^^^OH^^USA^M|^^PH^raghuraman.purusothaman@matrixcare.com^^345^3453455~^^CP^raghuraman.purusothaman@matrixcare.com^^345^3453455||||||||||||||||||||||||||||23088\r
+PV1||I|Transitions MC Unit1^MRoom1^MC4|9|||^Doctor^William^f^MD^Dr.^^^&2384234706|||||||1|||^Doctor^William^f^MD^Dr.^^^&2384234706||1^^^^VI|Skilled||||||||||||||||||||||||20250317005400||||||18143\r
+PV2|||||||||||||||||||||||||||||||||||||||||||N||N~^(No Directive)\r
+AL1|1|DA|1076^Aspirin (ASA)^FDDC\r
+DG1|1|ICD10|R10.0^Acute abdomen||20250505000000|W|||||||||2\r
+DG1|2|ICD10|R12^Heartburn||20250408000000|W|||||||||2\r
+IN1|1|^^^12869||Private^^^1||||||||20250317|000000||Census|||||Y|||||||Y|||||||||NA\r
